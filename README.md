@@ -1,4 +1,4 @@
-Deployed site: https://gledits2.github.io/biol_211/
+Deployed site: https://gledits2.github.io/biol211/
 
 
 # Welcome to the BIOL 211 Lab for Fall 2024!
