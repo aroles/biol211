@@ -1,0 +1,9 @@
+Package: biol211
+Type: Package
+Title: BIOL 211 - Lab for BIOL 210 - Genetics, Evolution, & Ecology
+Version: 1.24.2
+Authors@R: person("Prof. A. Roles", email = "aroles@oberlin.edu", role = c("aut", "cre"))
+Description: The lab resources for the BIOL 211
+License: None
+Encoding: UTF-8
+LazyData: true
