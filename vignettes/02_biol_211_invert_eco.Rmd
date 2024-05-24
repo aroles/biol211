@@ -19,5 +19,5 @@ pkgdown:
 
 # Invertebrate Ecology
 
-* [Kitching, R.L., Dahlsjö, C.A. and Eggleton, P., 2020. Invertebrates and the complexity of tropical ecosystems. Biotropica, 52(2), pp.207-214.](articles/sci_articles/Kitching et al_2020_[Invertebrates and the complexity of tropical ecosystems].pdf)
+* [Kitching, R.L., Dahlsjö, C.A. and Eggleton, P., 2020. Invertebrates and the complexity of tropical ecosystems. Biotropica, 52(2), pp.207-214.](articles/sheets/sci_articles/Kitching et al_2020_[Invertebrates and the complexity of tropical ecosystems].pdf)
 

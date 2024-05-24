@@ -19,9 +19,9 @@ pkgdown:
 
 # Invertebrate Methods
 
-* [Arthropod Collection and_Identification_Laboratory - Chapter 1: Equipment and Collecting Methods)](articles/sci_articles/Arthropod_Collection_and_Identification_Laboratory-Chapter_1._Equipment_and_Collecting_Methods.pdf)
+* [Arthropod Collection and_Identification_Laboratory - Chapter 1: Equipment and Collecting Methods)](articles/sheets/sci_articles/Arthropod_Collection_and_Identification_Laboratory-Chapter_1_Equipment_and_Collecting_Methods.pdf)
 
-* [The Composite Insect Trap - An Innovative Combination Trap for Biologically Diverse Sampling](Russo et al_2011_[The Composite Insect Trap - An Innovative Combination Trap for Biologically Diverse Sampling.pdf])
+* [The Composite Insect Trap - An Innovative Combination Trap for Biologically Diverse Sampling](articles/sheets/sci_articles/Russo_et_al_2011_[The_Composite_Insect_Trap-An_Innovative_Combination_Trap_for_Biologically_Diverse_Sampling.pdf])
 
-* [A Comparison of Terrestrial Arthropod Sampling Methods](Yi et al_2012_[A Comparison of Terrestrial Arthropod Sampling Methods].pdf)
+* [A Comparison of Terrestrial Arthropod Sampling Methods](articles/sheets/sci_articles/Yi_et_al_2012_[A_Comparison_of_Terrestrial_Arthropod_Sampling_Methods].pdf)
 

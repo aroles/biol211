@@ -120,7 +120,7 @@ For this course the Field Notebook will be transcribed into the electronic lab n
 
 Article about the importance of insects in forests:
 
-* [Kitching, R.L., Dahlsjö, C.A. and Eggleton, P., 2020. Invertebrates and the complexity of tropical ecosystems. Biotropica, 52(2), pp.207-214.](articles/sci_articles/Kitching et al_2020_[Invertebrates and the complexity of tropical ecosystems].pdf)
+* [Kitching, R.L., Dahlsjö, C.A. and Eggleton, P., 2020. Invertebrates and the complexity of tropical ecosystems. Biotropica, 52(2), pp.207-214.](articles/sheets/sci_articles/Kitching_et_al_2020_[Invertebrates_and_the_complexity_of_tropical_ecosystems].pdf)
 
 ## Insect Lifecycle
 
