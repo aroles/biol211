@@ -23,9 +23,9 @@ navbar:
     - text: How to Find Sources
       href: https://vimeo.com/user5041809/collections
     - text: Invertebrate Ecology
-      href: 404.html
+      href: articles/02_biol_211_invert_eco.html
     - text: Invertebrate Collection Methods
-      href: 404.html
+      href: articles/03_biol_211_invert_methods.html
     - text: Proper Data Hygene
       href: 404.html
     - text: Introduction to Analysis in R

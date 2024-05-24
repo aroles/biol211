@@ -3,7 +3,9 @@ pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
   01_biol_211_lab_intro: 01_biol_211_lab_intro.html
-last_built: 2024-05-23T15:31Z
+  02_biol_211_invert_eco: 02_biol_211_invert_eco.html
+  03_biol_211_invert_methods: 03_biol_211_invert_methods.html
+last_built: 2024-05-24T14:53Z
 urls:
   reference: https://gledits2.github.io/biol211/reference
   article: https://gledits2.github.io/biol211/articles

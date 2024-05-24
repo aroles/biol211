@@ -1,0 +1,27 @@
+---
+title: "BIOL 211 Lab - Invertebrate Methods"
+date: "Sep. 17 & 18, 2024"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+
+**Notes:**
+
+
+***
+
+# Invertebrate Methods
+
+* [Arthropod Collection and_Identification_Laboratory - Chapter 1: Equipment and Collecting Methods)](articles/sci_articles/Arthropod_Collection_and_Identification_Laboratory-Chapter_1._Equipment_and_Collecting_Methods.pdf)
+
+* [The Composite Insect Trap - An Innovative Combination Trap for Biologically Diverse Sampling](Russo et al_2011_[The Composite Insect Trap - An Innovative Combination Trap for Biologically Diverse Sampling.pdf])
+
+* [A Comparison of Terrestrial Arthropod Sampling Methods](Yi et al_2012_[A Comparison of Terrestrial Arthropod Sampling Methods].pdf)
+
