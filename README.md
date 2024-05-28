@@ -55,9 +55,9 @@ It is required that you keep a lab notebook for this course. You will use this n
 
 [Week 1 - Sep. 03 & 04 - Introduction to Lab and Insects](articles/01_biol_211_lab_intro.html)
 
-[Week 2 - Sep. 10 & 11 - Field Method & Hypothesis Generatation](404.html)
+[Week 2 - Sep. 10 & 11 - Field Method & Hypothesis Generatation](articles/02_biol_211_invert_eco.html)
 
-[Week 3 - Sep. 17 & 18 - Data Collection (1^st^ site)](404.html)
+[Week 3 - Sep. 17 & 18 - Data Collection (1^st^ site)](articles/04_biol_211_data_hygiene.html)
 
 [Week 4 - Sep. 24 & 25 - Data Collection (2^nd^ site)](404.html)
 

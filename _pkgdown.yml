@@ -26,8 +26,8 @@ navbar:
       href: articles/02_biol_211_invert_eco.html
     - text: Invertebrate Collection Methods
       href: articles/03_biol_211_invert_methods.html
-    - text: Proper Data Hygene
-      href: 404.html
+    - text: Proper Data Hygiene
+      href: articles/04_biol_211_data_hygiene.html
     - text: Introduction to Analysis in R
       href: 404.html
     - text: Guide to Making Presentations
