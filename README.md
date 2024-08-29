@@ -51,37 +51,35 @@ It is required that you keep a lab notebook for this course. You will use this n
 
 ## Lab Schedule
 
-(links to important resources)
-
 [Week 1 - Sep. 03 & 04 - Introduction to Lab and Insects](articles/01_biol_211_lab_intro.html)
 
-[Week 2 - Sep. 10 & 11 - Field Method & Hypothesis Generatation](articles/02_biol_211_invert_eco.html)
+[Week 2 - Sep. 10 & 11 - Field Methods & Hypothesis Generatation](articles/02_biol_211_invert_eco.html)
 
-[Week 3 - Sep. 17 & 18 - Data Collection (1^st^ site)](articles/04_biol_211_data_hygiene.html)
+[Week 3 - Sep. 17 & 18 - Data Collection 1](404.html)
 
-[Week 4 - Sep. 24 & 25 - Data Collection (2^nd^ site)](404.html)
+[Week 4 - Sep. 24 & 25 - Data Collection 2](404.html)
 
-[Week 5 - Oct. 01 & 02 - Data Cleaning & Data Analysis](404.html)
+[Week 5 - Oct. 01 & 02 - Data Collection & Cleaning](404.html)
 
-[Week 6 - Oct. 08 & 09 - 1^st^ Presentations](404.html)
+[Week 6 - Oct. 08 & 09 - Data Analysis](404.html)
 
-[Week 7 - Oct. 15 & 16 - Introduction to Duckweed](404.html) 
+[Week 7 - Oct. 15 & 16 - Invertebrate Project Presentations](404.html) 
 
-**_FALL BREAK_** - NO LAB
+Week 8 - Oct. 22 & 23 - **_FALL BREAK_** - NO LAB
 
-[Week 8 - Oct. 29 & 30 - Literature Revew & Protocol Development](404.html)
+[Week 9 - Oct. 29 & 30 - Introduction to Duckweed, Literature Revew & Protocol Development](404.html)
 
-[Week 9 - Nov. 05 & 06 - Experimental Set-up & Data collection](404.html)
+[Week 10 - Nov. 05 & 06 - Experimental Set-up & Data collection](404.html)
 
-[Week 10 - Nov. 12 & 13 - Data Collection](404.html)
+[Week 11 - Nov. 12 & 13 - Data Collection](404.html)
 
-[Week 11 - Nov. 19 & 20 - Final Data Collection & Data Analysis](404.html)
+[Week 12 - Nov. 19 & 20 - Final Data Collection & Cleaning](404.html)
 
-**_THANKSGIVING BREAK_** - NO LAB
+Week 13 - Nov. 26 & 27 - **_THANKSGIVING BREAK_** - NO LAB
 
-[Week 12 - Dec. 03 & 04 - Data Cleaning & Data Analysis](404.html)
+[Week 14 - Dec. 03 & 04 - Data Cleaning & Data Analysis](404.html)
 
-[Week 13 - Dec. 10 & 11 - 2^nd^ Presentations](404.html)
+[Week 15 - Dec. 10 & 11 - Duckweed Project Presentations](404.html)
 
 ***
 

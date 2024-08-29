@@ -13,8 +13,6 @@ navbar:
   left:
   - icon: fa-home fa-lg
     href: index.html
-  - text: Lab Notebook
-    href: https://www.benchling.com/
   - text: Lab Resources
     menu:
     - text: '----------------'
@@ -22,15 +20,11 @@ navbar:
       href: articles/01_biol_211_lab_intro.html
     - text: How to Find Sources
       href: https://vimeo.com/user5041809/collections
-    - text: Invertebrate Ecology
+    - text: Invertebrate Ecology Resources
       href: articles/02_biol_211_invert_eco.html
-    - text: Invertebrate Collection Methods
-      href: articles/03_biol_211_invert_methods.html
     - text: Proper Data Hygiene
       href: articles/04_biol_211_data_hygiene.html
     - text: Introduction to Analysis in R
-      href: 404.html
-    - text: Guide to Making Presentations
       href: 404.html
     - text: '----------------'
     - text: FALL BREAK
@@ -46,9 +40,9 @@ navbar:
     menu:
     - text: '----------------'
     - text: Tuesday Lab Section
-      href: https://www.google.com/drive/
-    - text: Wednesday Lab Section
       href: https://blackboard.oberlin.edu/ultra/
+    - text: Wednesday Lab Section
+      href: https://docs.google.com/forms/d/e/1FAIpQLSejXR5e3aJvF682Y2CjxSlZZl1TlRim5WL6NGBX_vc4zKoFvg/viewform?usp=sf_link
     - text: '----------------'
   right:
     - text: "BIOL 211 Fall 2024 Syllabus"

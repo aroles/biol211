@@ -1,5 +1,5 @@
 ---
-title: "BIOL 211 Lab - Invertebrate Ecology"
+title: "BIOL 211 Lab - Invertebrate Ecology Resources"
 date: "Sep. 10 & 11, 2024"
 output: 
   html_document:
@@ -17,7 +17,10 @@ pkgdown:
 
 ***
 
-# Invertebrate Ecology
+# Invertebrate Methods
 
-* [Kitching, R.L., Dahlsjö, C.A. and Eggleton, P., 2020. Invertebrates and the complexity of tropical ecosystems. Biotropica, 52(2), pp.207-214.](sheets/sci_articles/Kitching_et_al_2020.pdf)
+* [Arthropod Collection and Identification Laboratory - Chapter 1: Equipment and Collecting Methods)](sheets/sci_articles/Chapter_1_Equipment_and_Collecting_Methods.pdf)
 
+* [The Composite Insect Trap - An Innovative Combination Trap for Biologically Diverse Sampling](sheets/sci_articles/Russo_et_al_2011.pdf)
+
+* [A Comparison of Terrestrial Arthropod Sampling Methods](sheets/sci_articles/Yi_et_al_2012.pdf)
