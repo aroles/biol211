@@ -3,6 +3,19 @@ Deployed site: https://aroles.github.io/biol211/
 
 # Welcome to the BIOL 211 Lab for Fall 2024!
 
+## **SITE STILL UNDER CONSTRUCTION (Aug 29, 2024)**
+
+## Course Instructors
+
+
+| Instructor | Darla French | Angie Roles |
+| :------- | :------- | :------- |
+| **Lab Day** | Tues Lab | Wed Lab |
+| **Office** | SCTR K230 | SCTR A134 |
+| **Email** | <dfrench@oberlin.edu> | <aroles@oberlin.edu> |
+| **Phone** | 440-775-6632 | 440-775-8319 |
+| **Student Hrs** | TBD | MWF 10:30-11:30am |
+
 ## Laboratory Class Meetings
 
 Lab: Tuesday or Wednesday, 1:30-4:20pm in Sci Ctr K119

@@ -16,10 +16,8 @@ navbar:
   - text: Lab Resources
     menu:
     - text: '----------------'
-    - text: Lab Introduction
+    - text: Week 1. Lab Introduction
       href: articles/01_biol_211_lab_intro.html
-    - text: How to Find Sources
-      href: https://vimeo.com/user5041809/collections
     - text: Invertebrate Ecology Resources
       href: articles/02_biol_211_invert_eco.html
     - text: Proper Data Hygiene
