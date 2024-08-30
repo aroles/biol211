@@ -1,6 +1,8 @@
 url: https://aroles.github.io/biol211/
 home:
   links:
+  - text: BIOL 210 website
+    href: https://aroles.github.io/biol210/
   - text: Oberlin Biology Department
     href: https://www.oberlin.edu/arts-and-sciences/departments/biology
   - text: Oberlin Biology Major Overview
@@ -8,7 +10,7 @@ home:
   - text: Oberlin Biology Major Guidebook
     href: https://www.oberlin.edu/sites/default/files/content/arts-and-sciences/departments/biology/documents/guidebook_biology.majors_2023.2024.pdf
   params:
-    bootswatch: sandstone
+    bootswatch: journal
 navbar:
   left:
   - icon: fa-home fa-lg
