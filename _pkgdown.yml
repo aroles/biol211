@@ -11,9 +11,9 @@ home:
     href: https://www.oberlin.edu/sites/default/files/content/arts-and-sciences/departments/biology/documents/guidebook_biology.majors_2023.2024.pdf
 template:
     bootstrap: 5
-    bootswatch: cosmo
-    # bslib:
-    #   pkgdown-nav-height: 100px
+    bootswatch: pulse
+    bslib:
+      pkgdown-nav-height: 100px
 navbar:
   left:
   - icon: fa-home fa-lg
@@ -50,6 +50,7 @@ navbar:
     - text: Week 14 - Dec 3-4
       href: 404.html
     - text: Week 15 - Dec 10-11
+      href: 404.html
     - text: '----------------'
   - text: Lab Assignment Turn In
     menu:
