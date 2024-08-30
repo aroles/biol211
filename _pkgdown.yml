@@ -9,8 +9,10 @@ home:
     href: https://catalog.oberlin.edu/preview_program.php?catoid=49&poid=8753
   - text: Oberlin Biology Major Guidebook
     href: https://www.oberlin.edu/sites/default/files/content/arts-and-sciences/departments/biology/documents/guidebook_biology.majors_2023.2024.pdf
-  template:
-    bootswatch: journal
+template:
+    bootstrap: 5
+    light-switch: true
+    bootswatch: minty
 navbar:
   left:
   - icon: fa-home fa-lg
