@@ -12,7 +12,7 @@ home:
 template:
     bootstrap: 5
     light-switch: true
-    bootswatch: minty
+    bootswatch: yeti
 navbar:
   left:
   - icon: fa-home fa-lg
