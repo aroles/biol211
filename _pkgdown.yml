@@ -13,30 +13,44 @@ template:
     bootstrap: 5
     light-switch: true
     bootswatch: yeti
+    bslib:
+      pkgdown-nav-height: 100px
 navbar:
   left:
   - icon: fa-home fa-lg
     href: index.html
-  - text: Lab Resources
+  - text: Lab Agendas
     menu:
     - text: '----------------'
-    - text: Week 1. Lab Introduction
+    - text: Week 1 - Sep 3-4
       href: articles/01_biol_211_lab_intro.html
-    - text: Invertebrate Ecology Resources
-      href: articles/02_biol_211_invert_eco.html
-    - text: Proper Data Hygiene
-      href: articles/04_biol_211_data_hygiene.html
-    - text: Introduction to Analysis in R
+    - text: Week 2 - Sep 10-11
       href: 404.html
-    - text: '----------------'
-    - text: FALL BREAK
-    - text: '----------------'
-    - text: Duckweed Ecology
+    - text: Week 3 - Sep 17-18
       href: 404.html
-    - text: Environmental Impacts on Communities
+    - text: Week 4 - Sep 24-25
       href: 404.html
-    - text: Additional Analyses in R
+    - text: Week 5 - Oct 1-2
       href: 404.html
+    - text: Week 6 - Oct 8-9
+      href: 404.html
+    - text: Week 7 - Oct 15-16
+      href: 404.html
+    - text: Week 8 - Oct 22-23 Fall Break No lab
+      href: 404.html
+    - text: Week 9 - Oct 29-30
+      href: 404.html
+    - text: Week 10 - Nov 5-6
+      href: 404.html
+    - text: Week 11 - Nov 12-13
+      href: 404.html
+    - text: Week 12 - Nov 19-20
+      href: 404.html
+    - text: Week 13 - Nov 28-29 Thanksgiving No Lab
+      href: 404.html
+    - text: Week 14 - Dec 3-4
+      href: 404.html
+    - text: Week 15 - Dec 10-11
     - text: '----------------'
   - text: Lab Assignment Turn In
     menu:
@@ -46,6 +60,6 @@ navbar:
     - text: Wednesday Lab Section
       href: https://docs.google.com/forms/d/e/1FAIpQLSejXR5e3aJvF682Y2CjxSlZZl1TlRim5WL6NGBX_vc4zKoFvg/viewform?usp=sf_link
     - text: '----------------'
-  right:
-    - text: "BIOL 211 Fall 2024 Syllabus"
-      href: 404.html
+  # right:
+  #   - text: "BIOL 211 Fall 2024 Syllabus"
+  #     href: 404.html

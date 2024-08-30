@@ -7,7 +7,8 @@ articles:
   03_biol_211_invert_methods: 03_biol_211_invert_methods.html
   04_biol_211_data_hygiene: 04_biol_211_data_hygiene.html
   biol211-introR: biol211-introR.html
-last_built: 2024-08-30T15:37Z
+  CopyOf01_biol_211_lab_intro: CopyOf01_biol_211_lab_intro.html
+last_built: 2024-08-30T19:13Z
 urls:
   reference: https://aroles.github.io/biol211/reference
   article: https://aroles.github.io/biol211/articles
