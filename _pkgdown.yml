@@ -12,7 +12,7 @@ home:
 template:
     bootstrap: 5
     light-switch: true
-    bootswatch: yeti
+    bootswatch: pulse
     bslib:
       pkgdown-nav-height: 100px
 navbar:
