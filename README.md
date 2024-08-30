@@ -2,8 +2,6 @@ Deployed site: https://aroles.github.io/biol211/
 
 # Welcome to the BIOL 211 Lab for Fall 2024!
 
-## **SITE STILL UNDER CONSTRUCTION (Aug 29, 2024)**
-
 ## Laboratory Class Meetings
 
 Lab: Tuesday or Wednesday, 1:30-4:20pm in Sci Ctr K119
