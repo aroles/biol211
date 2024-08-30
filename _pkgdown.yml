@@ -11,8 +11,7 @@ home:
     href: https://www.oberlin.edu/sites/default/files/content/arts-and-sciences/departments/biology/documents/guidebook_biology.majors_2023.2024.pdf
 template:
     bootstrap: 5
-    light-switch: true
-    bootswatch: pulse
+    bootswatch: cosmo
     bslib:
       pkgdown-nav-height: 100px
 navbar:
