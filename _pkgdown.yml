@@ -22,7 +22,7 @@ navbar:
     menu:
     - text: '----------------'
     - text: Week 1 - Sep 3-4
-      href: articles/01_biol_211_lab_intro.html
+      href: articles/wk01_sep3_lab_intro.html
     - text: Week 2 - Sep 10-11
       href: 404.html
     - text: Week 3 - Sep 17-18

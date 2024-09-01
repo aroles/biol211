@@ -1,0 +1,113 @@
+---
+title: "Week 1. Lab Introduction"
+date: "Sep. 03 & 04, 2024"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# Introduction to BIOL 211 Lab
+
+* [Syllabus](https://aroles.github.io/biol211/index.html)
+
+
+# Lab Safety
+
+
+
+# Arthropod Orders 
+
+* Dichotomous key for identifying Insects to Order.
+
+
+# Guidelines for Scholarly Sources
+
+## Finding Sources:
+
+* Finding primary sources (= peer-reviewed published journal articles)
+
+    * Don’t be afraid to use the library resources (Science Direct; databases; librarians and resources on the Oberlin College Libraries website) to find your primary journal articles
+    * You could also use [Google Scholar](https://scholar.google.com/)
+    * …How do you know that it’s a primary source?
+    * Oberlin College Libraries video guide to finding a journal article: https://vimeo.com/450224352
+    * Oberlin College Libraries written guide to finding a full-text article: https://libguides.oberlin.edu/Articles/finding-full-text
+    * Oberlin College Libraries FAQ on Research Help (including finding articles): https://libraries.oberlin.edu/faqs
+    
+## Reading Scientific Articles
+
+* Do your best to read for a general understanding of what was done.
+    * Don’t feel you need to have all the nuances down after your first reading.
+    * Like anything, reading scientific papers takes practice!
+    
+* Indiana University Bloomington Libraries guide to reading a scientific paper: https://guides.libraries.indiana.edu/c.php?g=992698&p=7182643
+
+
+## Write an annotation and citation
+
+* Use a 3-2-1 format for your annotation:
+    * Three takeaways from the article that summarize its content.
+    * Two ways you think this particular article could apply to our research project.
+    * One thing you feel you still don’t understand after reading the article.<br><br>
+
+* Use complete sentences in paragraph format.
+
+* Use Council for Science Editors (CSE) formatting for the actual citation
+    * Pay close attention to the style of text (italics, bold, underline, quoted), punctuation separating information, and the order in which info is presented (ex: is the date after the author names or after the date?).
+    * General format is: Author(s). Date. Article title. Journal title. Volume(issue):location.
+    * Citation generator:  https://www.bibguru.com/c/cse-citation-generator/
+    * Citation quick-guide: https://www.scientificstyleandformat.org/Tools/SSF-Citation-Quick-Guide.html
+
+## Example of CSE citation format and annotation
+
+From a senior seminar on the origins of consciousness:
+
+<p style="padding-left: 2em; text-indent: -2em;">
+Alupay JS, Hadjisolomou SP, Crook RJ. 2014. Arm injury produces long-term behavioral and neural hypersensitivity in octopus. Neuroscience Letters. 558: 137-142. </p>
+
+The overall goal of this primary research was to observe nociception, also known as reception to pain, in cephalopods compared to vertebrates. The experiment was designed to observe whether an octopus with an injured arm would pay develop neural hypersensitivity (measured by response to squeezing of each arm with forceps). Most octopi were observed to jet off and display a wound care behavior; this demonstrated their ability to experience pain. This knowledge informs my research project for two reasons; first, it suggests to me that creatures other than humans can feel pain; and second, because octopuses are fairly ancient animals, it suggests to me that the origins of consciousness are much older than generally accepted. After reading this article, I feel that I want to learn more about nociception across all animal phyla.
+
+
+
+# Assignment (due week 2)
+
+For next week, you will practice finding, reading, and annotating scientific articles, related to the first project we are doing on arthropod biodiversity.
+
+Everyone will (a) read 2 sources, (b) each person in a group will become "expert" on one additional paper, and (c) each person will find and annotate 1 additional peer-reviewed primary source. In week 2, we will have team dissussions of these papers.
+
+## (a) Read and annotate 2 required sources
+
+* Schwartz MA. 2011. The importance of stupidity in scientific research. Seismological Research Letters. 82(1):3-4. [Link to PDF](sheets/sci_articles/Schwartz_2011_Imp_stupidity.pdf)
+
+* Eisenhauer N, Hines J. 2021. Invertebrate biodiversity and conservation. Current Biology. 31:R1214-R1218. [Link to PDF](sheets/sci_articles/Eisenhauer_Hines_2021.pdf)
+
+
+## (b) Read and annotate one of the following
+
+Which paper you should read will be assigned during the lab period. Each member of a team reads one paper, becoming "expert", and will share their knowledge next week.
+
+* Beattie AJ, Oliver I. 1994. Taxonomic minimalism. TREE 9(12):488-490. [Link to PDF](sheets/sci_articles/Beattie_Oliver_1994.pdf)
+
+* Dangerfield JM, Pik AJ, Britton D, Holmes A, Gillings M, Oliver I, Briscoe D, Beattie AJ. 2003. Patterns of invertebrate biodiversity across a natural edge. Austral Ecology 28:227-236. [Link to PDF](sheets/sci_articles/Dangerfield_et_al_2003.pdf)
+
+* Kitching RL, Dahlsjo CAL, Eggleton P. 2020. Invertebrates and the complexity of tropical ecosystems. Biotropica. 52:207-214. [Link to PDF](sheets/sci_articles/Kitching_et_al_2020.pdf)
+
+* Zou Y, Feng J, Xue D, Sang W, Axmacher JC. 2012. A comparison of terrestrial arthropod sampling methods. J. Resour. Ecol. 3(2):174-182. [Link to PDF](sheets/sci_articles/Zou_et_al_2012.pdf)
+
+## (c) Find and annotate one additional source
+
+Having read your assigned papers, you must also use your resources to identify one additional primary source related to the project on arthropod biodiversity. Make sure you also complete the annotation for this source!
+
+## What do I turn in?
+
+Create a single document with the citations and annotations for all 4 your sources (from a-c above). Put them in alphabetical order by the last name of the first author. Make sure you use the CSE formatting (see guidelines above).
+
+You should turn this in using the link in the "Lab Assignment Turn In" drop down menu at the top of the page. Make sure to use the link for your lab section (i.e., if your section meets on Tuesday then you should use the "Tuesday Lab Section" link and if your section meets on Wednesday then you should use the "Wednesday Lab Section" link). 
+
+
+
+
