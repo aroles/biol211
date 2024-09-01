@@ -14,7 +14,7 @@ pkgdown:
 # Overview
 
 * [Syllabus](https://aroles.github.io/biol211/index.html)
-* [Lab Safety](articles/LabSafetyGuidelines.html)
+* [Lab Safety](LabSafetyGuidelines.html)
 
 
 # Arthropod Orders 
