@@ -11,13 +11,10 @@ output:
 pkgdown:
   as_is: true
 ---
-# Introduction to BIOL 211 Lab
+# Overview
 
 * [Syllabus](https://aroles.github.io/biol211/index.html)
-
-
-# Lab Safety
-
+* [Lab Safety](articles/LabSafetyGuidelines.html)
 
 
 # Arthropod Orders 

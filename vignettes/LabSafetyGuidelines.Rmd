@@ -1,0 +1,140 @@
+---
+title: "Lab Safety Guidelines BIOL 211"
+date: "Fall 2024"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+
+Oberlin College Lab Safety Guidelines for BIOL 211.
+
+All students must complete a laboratory safety form to participate in labs. A printed copy of this contract is provided for signing agreement at the first lab session. 
+
+# Section 1. General Considerations
+
+<ol type="a">
+<li>	Unauthorized experiments are strictly forbidden and will result in immediate dismissal from class.</li>
+
+<li>	No horseplay will be tolerated and will result in immediate dismissal from class.</li>
+
+<li>	Removal of lab equipment, chemicals, specimens, slides, microscopes, etc., from lab will result in immediate dismissal from class.</li>
+
+<li>	Negligent and irresponsible treatment of organisms, laboratory equipment, chemicals, specimens, slides, microscopes, etc., will potentially result in grade reduction and dismissal from class. See sections 8 and 9 below for more details</li>
+</ol>
+
+# Section 2. Accidents and Injuries
+
+<ol type="a">
+<li>Report all accidents and injuries immediately to the instructor. This includes spills and breaking of glass, pipettes, or equipment.</li>
+
+<li>	Students should not clean up blood; instead, notify your instructor immediately if blood cleanup is required.</li>
+
+<li>	Do not assume your instructor can notice if you are injured or ill. Communicate with your instructor in regard to your wellbeing.</li>
+
+<li>	Emergency numbers are posted in the front corner of the room.</li>
+
+
+# Section 3. Poisoning Hazards
+
+a.	No food, beverages, or tobacco products are allowed in lab at any time. Do not chew gum in lab (chemicals can potentially bind to the gum). Never taste a chemical/substance in lab. There is a set of shelves outside the door to the lab where you can leave items of this nature for the duration of each lab period. 
+b.	Wash hands with soap and water after every lab.
+c.	Do not put pens or other tools in your mouth.
+d.	Do not remove or replace contacts while in lab. Never apply make-up in lab.
+
+
+# Section 4. Chemical Hazards
+
+a.	By federal law, students have the right to know about all chemicals (including consumer products) they will be exposed to in lab. It is your responsibility to know where to access this information. Safety data sheets (SDSs) provide detailed technical safety information for all chemicals/products used in lab. These are available for anyone who wants more information about a chemical/product than is required on a label. There is a binder containing this information located on the side bench near the lab door. Additional information is available in the chemical stockroom of the Biology Department and may be looked up online
+b.	All hazardous products will be identified clearly with a label; however, it is good common sense to treat all chemicals as though they are hazardous.
+c.	Always label solutions, test tubes, and containers you are using in a way that others can tell what is contained within them.
+d.	Never return chemicals to the container where you got them.
+e.	Keep flammable chemicals away from open flames, hotplates, and other sources of heat or sparks.  
+f.	Dispose of chemicals as instructed (waste bottles will be provided when necessary).
+
+
+# Section 5. Safety Goggles & Gloves
+
+For laboratory exercises that incorporate dissection or exposure to chemicals that pose a health risk as determined in the chemical SDS, students will be required to have and wear appropriate personal protective equipment (PPE) as described below. These will be provided by the instructor, including approved goggles and gloves. These PPE may not be required for every laboratory period, but if you are issued such PPE, you are responsible for having them with you to participate in labs that require them.
+
+a.	DO NOT handle personal electronic devices or other personal items while wearing gloves. Do not touch your face while wearing gloves. Doing so contaminates your property and defeats the purposes of wearing gloves in the first place.
+b.	For in-laboratory exercises that include a significant splash hazard, students will be required to have safety goggles meeting the specified safety standards as described: The following is required for goggles in laboratory settings when noted by the instructor:
+    *	Must be indirectly vented and must provide splash protection.
+    *	Must not have fabric or foam around edges that can absorb liquids and hold it next to the wearer’s skin.  
+    *	Must meet the ANSI Z87.1-2003 safety impact standard.
+    *	No admittance to the lab without approved goggles (if the specific lab requires goggles). Goggles will be provided if necessary.
+c.	The following is required for gloves in laboratory settings when noted by the instructor:
+    *	Must be appropriate for the current exposure to the hazardous chemical.
+    *	For splash or intermittent contact protection, a disposable Nitrile glove 9.5” long and 4 mil thick is recommended for most situations. Disposable gloves will be made available for your use.
+
+# Section 6. Clothing & Hair
+
+a.	Footwear MUST have a closed toe and heel that prevents the shoe from coming off and protects the skin on your feet. NO sandals in lab because of danger from broken glass and chemical spills.
+b.	Generally, there is no required attire for laboratories. However, loose and baggy clothing may constitute a fire hazard, soak up spilled chemicals, or get caught on equipment. Additionally, at times, you will be dealing with chemicals that may stain or burn your skin. Use common sense when choosing what to wear for lab; shorts and bare midriffs are generally not good choices.      
+c.	Long hair should be tied back to reduce the risk of fire hazard and to keep hair out of chemicals.
+
+
+# Section 7. Housekeeping
+
+a.	Keep your workspace clean and neat.
+b.	You are required to wipe down your portion of the lab bench before leaving lab.
+c.	Return ALL lab equipment to its proper place. A good rule of thumb is to put everything back where you found it, cleaner than you found it.
+d.	All trash must be thrown away in identified receptacles. Do not throw trash into sinks.
+e.	All broken glass must be put into an appropriate container; broken glass containers are located in the front corner of the room. 
+f.	Never point at models, skeletal material, or specimens using a pen or pencil. Marks are often impossible to remove without further damage.
+g.	Always put used scalpel blades, syringe needles, etc., into the red sharps container in the front of the room.
+h.	Clean up non-hazardous chemical spills immediately. If the chemical may be hazardous, notify the instructor and clean up using proper procedures as described by the instructor.
+
+# Section 8. Microscopes & Stereoscopes
+
+a.	Microscopes and stereoscopes must be returned to their cabinets in the correct orientation.
+b.	Always use two hands to carry microscopes and stereoscopes.
+c.	Do not allow microscope/stereoscope cords to dangle where they might become tangled or tripped over.
+d.	Keep microscopes/stereoscopes away from the edge of the table.
+e.	Use lens paper ONLY to clean the lenses; clean them often. At a minimum, clean all lenses with first use during a laboratory period and the ocular lenses between different users. Never allow your eyes to touch the ocular lenses.  
+f.	Slides: Never carry more than one microscope slide at a time. Carrying stacks of slides results in broken coverslips and ruins the slides. Many of our microscope slides cannot be replaced and those that can are expensive. Put any chipped or broken slides immediately into the broken glass container. Some breakage is a natural result of using equipment. Notify the lab instructor so that they can keep track of slide numbers and reorder them if possible. Always return slides to where you got them. 
+
+# Section 9. Specimens
+
+a.	Abuse of specimens, living or preserved, carries severe consequences, including immediate dismissal from class and, depending on severity of the abuse, up to and including failure of the course.
+b.	Live specimens need to be treated humanely and respectfully. If unsure how to handle an organism, ask the instructor. 
+c.	Treat all microorganisms as potential pathogens.
+d.	All used cultures/plates containing bacteria should be disposed of ONLY in locations designated for materials to be autoclaved.
+e.	Preserved specimens should be treated respectfully and NEVER REMOVED from lab. Specimens themselves and preservatives pose a potential health risk. Removing specimens or parts of specimens from labs is theft and will result in immediate dismissal from class with a grade of "F" assigned for the course. Additional legal action may be taken by Oberlin College, if warranted. All dissection tissue remnants should ONLY be disposed of in locations designated by the instructor. Do NOT throw them in sinks or general-use trashcans.
+
+# Section 10. Electrical Equipment
+
+a.	Use caution around hot plates and burners. Always assume they are hot.
+b.	Keep long hair and loose clothing contained to limit fire hazards.
+c.	Keep electrical cords away from spilled liquids.
+d.	Do not attempt to plug or unplug cords with wet hands.
+
+# Section 11. Safety Equipment
+
+a.	Notify your instructor immediately of any injuries. First aid kits are located near the doors to the lab . Additional kits are available in K204 (dishwashing room), K118 (stockroom), and K120. Do not clean up blood yourself.
+b.	Chemical spill kits are located in K204 and K118.
+c.	Fire extinguishers are located in each lab. In case of fire, notify the instructor, evacuate the room, and pull the fire alarm if appropriate.
+d.	Eyewash and safety shower stations are located in the front of the lab .
+
+# Section 12. COVID Safety
+
+a.	In accordance with CDC guidelines and recommendations from the governor of Ohio, face masks may be worn indoors for added personal safety. This includes in the lab setting if you choose.
+b.	During the lab session, wash your hands often and thoroughly using soap and water.
+c.	At the conclusion of the lab session, use Virex  and paper towels (provided) to thoroughly wipe down your space and your materials.
+d.	To date, more scientific papers have been published on COVID-19 and its vaccines since 2020 than cumulative papers have been published on Staphylococcus in the last 140 years. History shows that vaccines work (polio, smallpox, etc), and the literature and data show that this particular vaccine is effective in protecting humans (references available upon request). If you can, and if it is recommended for your particular situation – Get vaccinated. If not for yourself, for those around you. Ask your instructor if you want more information about how to do this.
+
+# Section 13. Field Work
+
+a.	Several of our class periods this semester may take place in the field. Appropriate dress is required for these activities—generally, long pants, long sleeves, and shoes that cover your feet are highly recommended. Wearing inappropriate clothes will not preclude you from the lab activity.
+b.	Bring water, sunscreen, and bug spray.
+c.	While in the field, be aware that the terrain is rough and uneven.
+d.	Be aware of where you step. Watch for snakes and other venomous creatures.
+e.	If you become injured or feel ill, let the instructor know immediately.
+f.	If working with guest speakers or community members, respect and consideration is expected.
+g.	No dangerous horseplay or activities will be tolerated.
+h.	Maintain control of field equipment and supplies.
