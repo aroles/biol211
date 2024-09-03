@@ -125,7 +125,7 @@ Attendance | Attendance is required for all labs. You must regularly attend the 
 | Week | Date | Lab Activity | Assignment Due* |
 | :---: | :---- | :------------ | :------ |
 | 1 | Sep 3-4 | Intro (course structure, safety) / Library intro / Background for next time | None |
-| 2 | Sep 10-11 | Field method intro / Generate hypothesis | Read 2 papers; find and annotate 5 sources |
+| 2 | Sep 10-11 | Field method intro / Generate hypothesis | Read 3 papers; find and annotate 1 source |
 | 3 | Sep 17-18 | Data collection - If raining, go on your own | Metacognition |
 | 4 | Sep 24-25 | Data collection - If raining, go on your own | R intro; Metacognition |
 | 5 | Oct 1-2 | Data cleaning / Data analysis / Presentation prep | R homework; Metacognition |
