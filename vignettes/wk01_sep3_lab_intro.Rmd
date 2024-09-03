@@ -17,9 +17,9 @@ pkgdown:
 * [Lab Safety](LabSafetyGuidelines.html)
 
 
-# Arthropod Orders 
+<!-- # Arthropod Orders  -->
 
-* Dichotomous key for identifying Insects to Order.
+<!-- * Dichotomous key for identifying Insects to Order. -->
 
 
 # Guidelines for Scholarly Sources
@@ -68,8 +68,6 @@ Alupay JS, Hadjisolomou SP, Crook RJ. 2014. Arm injury produces long-term behavi
 
 The overall goal of this primary research was to observe nociception, also known as reception to pain, in cephalopods compared to vertebrates. The experiment was designed to observe whether an octopus with an injured arm would pay develop neural hypersensitivity (measured by response to squeezing of each arm with forceps). Most octopi were observed to jet off and display a wound care behavior; this demonstrated their ability to experience pain. This knowledge informs my research project for two reasons; first, it suggests to me that creatures other than humans can feel pain; and second, because octopuses are fairly ancient animals, it suggests to me that the origins of consciousness are much older than generally accepted. After reading this article, I feel that I want to learn more about nociception across all animal phyla.
 
-
-
 # Assignment (due week 2)
 
 For next week, you will practice finding, reading, and annotating scientific articles, related to the first project we are doing on arthropod biodiversity.
@@ -94,6 +92,26 @@ Which paper you should read will be assigned during the lab period. Each member 
 * Kitching RL, Dahlsjo CAL, Eggleton P. 2020. Invertebrates and the complexity of tropical ecosystems. Biotropica. 52:207-214. [Link to PDF](sheets/sci_articles/Kitching_et_al_2020.pdf)
 
 * Zou Y, Feng J, Xue D, Sang W, Axmacher JC. 2012. A comparison of terrestrial arthropod sampling methods. J. Resour. Ecol. 3(2):174-182. [Link to PDF](sheets/sci_articles/Zou_et_al_2012.pdf)
+
+### Who reads which paper?
+
+<b>Tuesday Lab</b>
+
+| Paper | Persons reading |
+| :------ | :------------ |
+| Beattie & Oliver 1994 | Miles, Jyothi, Amelia, Sean, Audrey |
+| Dangerfield et al. 2003 | Julian, Tyler, Rhys, Savannah, Revanth (TA) |
+| Kitching et al. 2020 | Malak, Meena, Charles, Mia, Meaghan |
+| Zou et al. 2012 | Ryan, Grayson, Riley, Maddy, Maeve |
+
+<b>Wednesday Lab</b>
+
+| Paper | Persons reading |
+| :------ | :------------ |
+| Beattie & Oliver 1994 | Hieu, Maria, Olivia, Samantha, Zoë |
+| Dangerfield et al. 2003 | Anadi, Dut, Isla, Julia, Wooldjina |
+| Kitching et al. 2020 | Angel, Holly, Sophie, Colten, Riley (TA) |
+| Zou et al. 2012 | Clara, Fay, Katie, Owen, William |
 
 ## (c) Find and annotate one additional source
 
