@@ -97,21 +97,12 @@ Which paper you should read will be assigned during the lab period. Each member 
 
 <b>Tuesday Lab</b>
 
-| Paper | Persons reading |
-| :------ | :------------ |
-| Beattie & Oliver 1994 | Miles, Jyothi, Amelia, Sean, Audrey |
-| Dangerfield et al. 2003 | Julian, Tyler, Rhys, Savannah, Revanth (TA) |
-| Kitching et al. 2020 | Malak, Meena, Charles, Mia, Meaghan |
-| Zou et al. 2012 | Ryan, Grayson, Riley, Maddy, Maeve |
-
-<b>Wednesday Lab</b>
-
-| Paper | Persons reading |
-| :------ | :------------ |
-| Beattie & Oliver 1994 | Hieu, Maria, Olivia, Samantha, Zoë |
-| Dangerfield et al. 2003 | Anadi, Dut, Isla, Julia, Wooldjina |
-| Kitching et al. 2020 | Angel, Holly, Sophie, Colten, Riley (TA) |
-| Zou et al. 2012 | Clara, Fay, Katie, Owen, William |
+| Paper | Tue Persons Reading | Wed Persons Reading |
+| :------ | :------------ | :------------ | 
+| Beattie & Oliver 1994 | Miles, Jyothi, Amelia, Sean, Audrey | Hieu, Maria, Olivia, Samantha, Zoë |
+| Dangerfield et al. 2003 | Julian, Tyler, Rhys, Savannah, Revanth (TA) | Anadi, Dut, Isla, Julia, Wooldjina |
+| Kitching et al. 2020 | Malak, Meena, Charles, Mia, Meaghan | Angel, Holly, Sophie, Colten, Riley (TA) |
+| Zou et al. 2012 | Ryan, Grayson, Riley, Maddy, Maeve | Clara, Fay, Katie, Owen, William |
 
 ## (c) Find and annotate one additional source
 
