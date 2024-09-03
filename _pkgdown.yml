@@ -52,6 +52,12 @@ navbar:
     - text: Week 15 - Dec 10-11
       href: 404.html
     - text: '----------------'
+  - text: Materials
+    menu:
+    - text: '----------------'
+    - text: Lab Safety Guidelines
+      href: LabSafetyGuidelines.html
+    - text: '----------------'
   - text: Lab Assignment Turn In
     menu:
     - text: '----------------'
