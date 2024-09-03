@@ -116,7 +116,7 @@ d.	Do not attempt to plug or unplug cords with wet hands.
 
 # Section 11. Safety Equipment
 
-a.	Notify your instructor immediately of any injuries. First aid kits are located near the doors to the lab . Additional kits are available in K118 (stockroom), and K120. Do not clean up blood yourself.
+a.	Notify your instructor immediately of any injuries. First aid kits are located in K118 (stockroom), and K120. Do not clean up blood yourself.
 b.	Chemical spill kits are located in K204 and K118.
 c.	Fire extinguishers are located in each lab. In case of fire, notify the instructor, evacuate the room, and pull the fire alarm if appropriate.
 d.	Eyewash and safety shower stations are located in K118 (stockroom).
