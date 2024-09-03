@@ -21,7 +21,7 @@ Lab: Tuesday or Wednesday, 1:30-4:20pm in Sci Ctr K119
 
 | Revanth Sudhireddy (Tue) | Riley Eaton (Wed) |
 | :------- | :------- |
-| <reaton2@oberlin.edu> | <Revanth.Sudhireddy@oberlin.edu> |
+| <Revanth.Sudhireddy@oberlin.edu> | <reaton2@oberlin.edu> |
 
 ## Statement on Accessibility and Inclusion
 
