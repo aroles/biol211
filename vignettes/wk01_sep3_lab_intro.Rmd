@@ -21,6 +21,9 @@ pkgdown:
 
 <!-- * Dichotomous key for identifying Insects to Order. -->
 
+# Origami Frog resources
+
+[Link for folding video.](https://youtu.be/uj5t4klo-SA?feature=shared)
 
 # Guidelines for Scholarly Sources
 
