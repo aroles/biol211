@@ -24,7 +24,7 @@ navbar:
     - text: Week 1 - Sep 3-4
       href: articles/wk01_sep3_lab_intro.html
     - text: Week 2 - Sep 10-11
-      href: 404.html
+      href: wk02_sep10-11.html
     - text: Week 3 - Sep 17-18
       href: 404.html
     - text: Week 4 - Sep 24-25
@@ -57,6 +57,8 @@ navbar:
     - text: '----------------'
     - text: Lab Safety Guidelines
       href: LabSafetyGuidelines.html
+    - text: Library Search Guide
+      href: https://libguides.oberlin.edu/BIOL211
     - text: '----------------'
   - text: Lab Assignment Turn In
     menu:

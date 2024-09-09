@@ -1,0 +1,65 @@
+---
+title: "Week 2. ???"
+date: "Sep. 10 & 11, 2024"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+pkgdown:
+  as_is: true
+---
+# Overview
+
+* [Library Search Guide](https://libguides.oberlin.edu/BIOL211)
+
+# All about arthropods
+
+## Intro to Insect Orders
+
+## Practice with preserved specimens
+
+# Assignment (due week 3)
+
+* For next week, you will find and annotate 5 more papers. Together, your group must find 20 total new papers.
+  * Use the 3-2-1 format from last time (see instructions below)
+  * Collaborate so your group shares a single document to include all 20 sources. 
+  * **Submit 1 file for the group.**
+
+## Annotation instructions
+
+* Use a 3-2-1 format for your annotation:
+    * Three takeaways from the article that summarize its content.
+    * Two ways you think this particular article could apply to our research project.
+    * One thing you feel you still don’t understand after reading the article.<br><br>
+
+* Use complete sentences in paragraph format.
+
+* Use Council for Science Editors (CSE) formatting for the actual citation
+    * Pay close attention to the style of text (italics, bold, underline, quoted), punctuation separating information, and the order in which info is presented (ex: is the date after the author names or after the date?).
+    * General format is: Author(s). Date. Article title. Journal title. Volume(issue):location.
+    * Citation generator:  https://www.bibguru.com/c/cse-citation-generator/
+    * Citation quick-guide: https://www.scientificstyleandformat.org/Tools/SSF-Citation-Quick-Guide.html
+
+# Library visit
+
+Head Science Librarian Eboni Johnson will lead us through an introduction to using library resources to find sources. 
+
+She also created this handy webpage for our class: https://libguides.oberlin.edu/BIOL211
+
+
+# Introduction to our arthropod research project
+
+* Intro to Arboreteum ecosystems and geography
+* Jigsaw discussion on papers read for today
+* In assigned teams, discussion of experimental design and generation of question/hypothesis/predictions
+* **Turn in initial draft of question/hypothesis/predictions**
+
+
+
+
+
+
+
