@@ -31,6 +31,14 @@ For this part of lab, we'll learn how to tell apart different Orders and practic
 * Now that we have key features for each order, examine some already identified preserved specimens. Can you find the key features on these specimens?
 * Next, practice with some unknown specimens. Can you identify what Order they belong to? Write up a Claim, with Evidence, and Reasoning (CER format).
 
+
+
+# Library visit
+
+Head Science Librarian Eboni Johnson will lead us through an introduction to using library resources to find sources. 
+
+She also created this handy webpage for our class: https://libguides.oberlin.edu/BIOL211
+
 # Assignment (due week 3)
 
 * For next week, you will find and annotate 5 more papers. Together, your group must find 20 total new papers.
@@ -52,13 +60,6 @@ For this part of lab, we'll learn how to tell apart different Orders and practic
     * General format is: Author(s). Date. Article title. Journal title. Volume(issue):location.
     * Citation generator:  https://www.bibguru.com/c/cse-citation-generator/
     * Citation quick-guide: https://www.scientificstyleandformat.org/Tools/SSF-Citation-Quick-Guide.html
-
-# Library visit
-
-Head Science Librarian Eboni Johnson will lead us through an introduction to using library resources to find sources. 
-
-She also created this handy webpage for our class: https://libguides.oberlin.edu/BIOL211
-
 
 # Introduction to our arthropod research project
 
