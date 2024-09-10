@@ -17,9 +17,19 @@ pkgdown:
 
 # All about arthropods
 
-## Intro to Insect Orders
+For this part of lab, we'll learn how to tell apart different Orders and practice with preserved specimens.
 
-## Practice with preserved specimens
+### Intro to Insect Orders
+
+* Each team will be assigned 1-2 Orders and is responsible for identifying what characteristics are used to distinguish those Orders from others. 
+* You can use the two field guides available in lab to help with this task.
+* Each team presents the key features of their Orders to the whole lab. (Take notes on what other teams tell you!)
+* Practice using the key in the Peterson's field guide to identify the specimens on the cards from last week to their Order.
+
+### Practice with preserved specimens
+
+* Now that we have key features for each order, examine some already identified preserved specimens. Can you find the key features on these specimens?
+* Next, practice with some unknown specimens. Can you identify what Order they belong to? Write up a Claim, with Evidence, and Reasoning (CER format).
 
 # Assignment (due week 3)
 
@@ -53,6 +63,7 @@ She also created this handy webpage for our class: https://libguides.oberlin.edu
 # Introduction to our arthropod research project
 
 * Intro to Arboreteum ecosystems and geography
+* Intro to available traps, use of traps
 * Jigsaw discussion on papers read for today
 * In assigned teams, discussion of experimental design and generation of question/hypothesis/predictions
 * **Turn in initial draft of question/hypothesis/predictions**
