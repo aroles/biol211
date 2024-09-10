@@ -1,5 +1,5 @@
 ---
-title: "Week 2. ???"
+title: "Week 2. Insect Orders and Developing Hypotheses"
 date: "Sep. 10 & 11, 2024"
 output: 
   html_document:
