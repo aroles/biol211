@@ -61,6 +61,8 @@ navbar:
       href: articles/CER_framework.html
     - text: Library Search Guide
       href: https://libguides.oberlin.edu/BIOL211
+    - text: RefWorks
+      href: https://refworks.proquest.com/
     - text: '----------------'
   - text: Lab Assignment Turn In
     menu:

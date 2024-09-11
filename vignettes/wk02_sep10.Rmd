@@ -16,6 +16,7 @@ pkgdown:
 * [Handouts for Lab 2](sheets/sci_articles/BIOL211_Lab2_Handouts.pdf) (paper copies given in lab)
 * [Library Search Guide](https://libguides.oberlin.edu/BIOL211)
 * [Claim-Evidence-Reasoning Guide](CER_framework.html)
+* Link to RefWorks for creating bibliographies: https://refworks.proquest.com/
 
 # All about arthropods
 
@@ -62,6 +63,7 @@ She also created this handy webpage for our class: https://libguides.oberlin.edu
     * General format is: Author(s). Date. Article title. Journal title. Volume(issue):location.
     * Citation generator:  https://www.bibguru.com/c/cse-citation-generator/
     * Citation quick-guide: https://www.scientificstyleandformat.org/Tools/SSF-Citation-Quick-Guide.html
+    * Link to RefWorks for creating bibliographies: https://refworks.proquest.com/
 
 # Introduction to our arthropod research project
 
