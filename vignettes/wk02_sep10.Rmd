@@ -13,6 +13,7 @@ pkgdown:
 ---
 # Overview
 
+* [Handouts for Lab 2](sheets/sci_articles/BIOL211_Lab2_Handouts.pdf) (paper copies given in lab)
 * [Library Search Guide](https://libguides.oberlin.edu/BIOL211)
 
 # All about arthropods
