@@ -57,6 +57,8 @@ navbar:
     - text: '----------------'
     - text: Lab Safety Guidelines
       href: LabSafetyGuidelines.html
+    - text: CER framework guidelines
+      href: CER_framework.html
     - text: Library Search Guide
       href: https://libguides.oberlin.edu/BIOL211
     - text: '----------------'

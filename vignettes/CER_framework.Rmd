@@ -1,0 +1,56 @@
+---
+title: "Claim -- Evidence -- Reasoning (CER) Framework"
+# date: "Fall 2024"
+output: 
+  html_document:
+    toc: FALSE
+    toc_depth: 3
+  pdf_document:
+    toc: FALSE
+    toc_depth: 0
+pkgdown:
+  as_is: true
+---
+
+>“At the end of the day, it’s just raw curiosity. I think almost everybody that gets seriously into science is driven by curiosity.”
+>
+>~Kerry Emmanuel, MIT emeritus professor of meteorology~
+
+Curiosity—-the desire to explain how the world works—-drives the questions we ask and the investigations we conduct. The Claim-Evidence-Reasoning framework provides a scaffold for thinking about science and explaining phenomena. This framework helps connect experiences to content knowledge (and therefore helps answer questions) in three steps:
+
+* **C** = Make a **claim**: A statement that answers the original question.
+* **E** = Support your claim with **evidence**: the quantitative data that supports your claim. Evidence should be both appropriate and sufficient to support the claim.
+* **R** = Provide **reasons**: this is the explanation, the "because". Reasons tell why a certain claim is what it is. Reasons are the scientific principles that substantiate your evidence and explin why something occurred.
+
+By using the CER framework in science, you practice analytical and critical thinking. Analytical thinkers are capable of deducing cause and effect, analyzing data and interpreting results, evaluating reasonability, and synthesizing information. Critical thinkers use objective analysis and  evaluation of a set of data or a situation in order to form a judgment.
+
+In applying the CER framework, you must articulate a coherent explanation about your claim. Here are some do’s and don’ts to get you started:
+
+
+| CLAIM: A statement of understanding about a phenomenon or about the results of an investigation. |
+| :---------------- |
+|  A one-sentence answer to the question you investigated. |
+| It answers, what can you conclude? |
+| It should not start with yes or no. |
+| It should describe the relationship between dependent and independent variables. |
+
+| EVIDENCE: Scientific data used to support the claim. |
+| :---------------- |
+| Evidence must be sufficient. Use enough evidence to support the claim. |
+| Evidence must be appropriate. Use data that support your claim. Leave out information that doesn't support the claim. |
+| Can be qualitative, quantitative, or a combination.|
+
+| REASONING: Justification that ties together the claim and the evidence. |
+| :---------------- |
+| Shows *how* or *why* the data count as evidence to support the claim. |
+| Provides the justification for why this evidence is important to this claim. |
+| Includes one or more scientific principles tha are important to the claim and evidence. |
+
+
+> Strong answers to questions on assessments should include all three components. The justification piece can be hard!
+
+
+
+
+
+
