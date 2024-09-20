@@ -1,0 +1,72 @@
+---
+title: "Introduction to R for BIOL 211"
+date: "Created Fall 2024"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+    keep_tex: true
+pkgdown:
+  as_is: true
+---
+# Introduction to R
+
+After we collect data, the next step is to clean up our dataset and then explore it, using graphs to visualize patterns in our data and finally analyzing the data in light of our hypothesis and predictions.
+
+For most students in 211, it's likely that you are not very familiar with R or statistics. That's why we created this series of exercises, to help you start to learn about both of these topics!
+
+If you are already familiar with R and statistics, this series of exercises should go quickly for you but will serve as a reminder. 
+
+Please watch the videos and follow along in sequence, beginning with the v01. For these exercises, we'll be working with a dataset collected in a previous year's lab.
+
+Below, each video segment includes a link to the video, any slides that were used, and a text transcript. **You will need to use your Oberlin account to access these resources.**
+
+## Video 01: Getting acquainted part 1
+
+* [Video 01 (10 min)](https://drive.google.com/file/d/13iV3c-A-veHZfjMSEGa4I85OEuSsxx5y/view?usp=drive_link)
+* [Slides (pdf)](https://drive.google.com/file/d/1W-ofNhWzqqaJJqjKetkY6CdZlJN91q9D/view?usp=drive_link)
+* [Transcript (text file)](https://drive.google.com/file/d/1Rorn6H7QzcoZAuOC_ApGs8CheIB30vg1/view?usp=drive_link)
+
+## Video 02: Getting acquainted part 2
+
+* [Video 02 (25 min)](https://drive.google.com/file/d/16PK0YQQs9Ssz5WtmSdc7wVdzL2wsfaY_/view?usp=drive_link)
+* [Slides (pdf)](https://drive.google.com/file/d/13mx5PvJGUjl2yOETykHBlFyZxqBMj7Ab/view?usp=drive_link)
+* [Transcript (text file)](https://drive.google.com/file/d/1VDsXqXdkQOEC-PWwUxR7Rz4Fa-Qd7i4M/view?usp=drive_link)
+
+## Video 03: Checking and cleaning data
+
+* [Video 03 (22 min)](https://drive.google.com/file/d/16SgeDmjxFNnqFmNtQIV1iDpi0vf-LEx6/view?usp=drive_link)
+* [Slides (pdf)](https://drive.google.com/file/d/141GPVThr9oe-z8djs2ziKpUIBC8AM9To/view?usp=drive_link)
+* [Transcript (text file)](https://drive.google.com/file/d/1VNtix-soukhQVUxKYyevN61-lOiOqQth/view?usp=drive_link)
+* Here's the [dataset for download](https://drive.google.com/file/d/19jjE3GRg-70tWPKKw5WmxjRoVyX7WHCi/view?usp=drive_link). Click on the link then you should be able to preview the file and also download a copy for yourself.
+
+## Video 04: Data exploration
+
+* [Video 04 (24 min)](https://drive.google.com/file/d/192pE9ZX5Ob8ShzId1-9UlPSXnBFGar9S/view?usp=drive_link)
+* [Slides (pdf)](https://drive.google.com/file/d/1431J66A5s_aadfHMKiprzVIBqlrRonx2/view?usp=drive_link)
+* [Transcript (text file)](https://drive.google.com/file/d/1pHvW00VoD8Uhe4O2ZPPRBgOhPS1Dck5-/view?usp=drive_link)
+
+## Video 05: Diversity measures
+
+* [Video 05 (16 min)](https://drive.google.com/file/d/193YihMoEeltp6ytIU96ZhA5T7SpAYZp-/view?usp=drive_link)
+* [Slides (pdf)](https://drive.google.com/file/d/193YihMoEeltp6ytIU96ZhA5T7SpAYZp-/view?usp=drive_link)
+* [Transcript (text file)](https://drive.google.com/file/d/1TVs0CsMMq_BNjG_cnqyaX8obaMw379fr/view?usp=drive_link)
+
+## Video 06: Visualizing data
+
+* [Video 06 (25 min)](https://drive.google.com/file/d/1969kBKT-lV6V_BCcTeicKbFwGZXGfqIJ/view?usp=drive_link)
+* [Slides (pdf)](https://drive.google.com/file/d/14LLyZgiKAj70hYoPqSiVwf6jk8qONiu2/view?usp=drive_link)
+* [Transcript (text file)](https://drive.google.com/file/d/1Tb08y7kMkaPBzrvAQD6WWGrUX1hF3n25/view?usp=drive_link)
+
+## Video 07: Analyzing data
+
+* [Video 07 (24 min)](https://drive.google.com/file/d/19GSWtNk37XX2i7L7REQVDwCHxphaB1H4/view?usp=drive_link)
+* [Slides (pdf)](https://drive.google.com/file/d/14ZtdVXIN_ZvJvE0bxgrFN4x7D1MKzdjU/view?usp=drive_link)
+* [Transcript (text file)](https://drive.google.com/file/d/1e1EwkAxVYCbxJ91Q8LahBrGj2UkBsFXQ/view?usp=drive_link)
+
+# Assignment Due
+
+Write up your findings from this aquatic invertebrate dataset for the response variables H and E. Identify your Claim, Evidence, and Reasoning for each variable. Include plots that demonstrate the patterns you describe and be sure to discuss the statistical analysis and how you interpret those results.

@@ -8,11 +8,12 @@ articles:
   biol211-introR: biol211-introR.html
   CER_framework: CER_framework.html
   CopyOf01_biol_211_lab_intro: CopyOf01_biol_211_lab_intro.html
+  intro2r: intro2r.html
   LabSafetyGuidelines: LabSafetyGuidelines.html
   wk01_sep3_lab_intro: wk01_sep3_lab_intro.html
   wk02_sep10: wk02_sep10.html
   wk03_sep17: wk03_sep17.html
-last_built: 2024-09-18T15:52Z
+last_built: 2024-09-20T16:31Z
 urls:
   reference: https://aroles.github.io/biol211/reference
   article: https://aroles.github.io/biol211/articles

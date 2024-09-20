@@ -59,6 +59,8 @@ navbar:
       href: articles/LabSafetyGuidelines.html
     - text: CER framework guidelines
       href: articles/CER_framework.html
+    - text: Introduction to R
+      href: articles/intro2r.html
     - text: Library Search Guide
       href: https://libguides.oberlin.edu/BIOL211
     - text: RefWorks
