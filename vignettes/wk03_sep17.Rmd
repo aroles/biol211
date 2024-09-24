@@ -316,16 +316,20 @@ Some of the data in this set are categorized as explanatory variables (E) and ot
 
 Categories in this data set:
 
-| Lab Day’ |	Group Number” |	Habitat Type* |	Trap Type** |	Date | Trap | Set |	Date Trap Collected |	Order |	Family |	Number of Individuals |
+| Lab Day |	Group Number |	Habitat Type |	Trap Type |	Date | Trap | Set |	Date Trap Collected |	Order |	Family |	Number of Individuals |
 | :---: |	:---: |	:---: |	:---: |	:---: |	:---: |	:---: | :---: |	:---: |
 | ? |	? |	? |	? |	? |	? |	? | ? |	? |
 |  |	 |	 |	 |	 |	 |	 | |	 |
 
-Options:
-’ Tues or Wed
-” 1, 2, 3, 4, or 5
-* Forest edge, forest interior, riparian, open field
-** Sweep net, beat net, pitfall trap, Berlese funnel, combo trap
+**Options:**
+
+Lab Day = Tues or Wed
+
+Group number = 1, 2, 3, 4, or 5
+
+Habitat type = Forest edge, forest interior, riparian, open field
+
+Trap type = Sweep net, beat net, pitfall trap, Berlese funnel, combo trap
 
 
 
