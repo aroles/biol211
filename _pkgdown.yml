@@ -30,9 +30,9 @@ navbar:
     - text: Week 4 - Sep 24-25
       href: articles/wk04_sep24.html
     - text: Week 5 - Oct 1-2
-      href: 404.html
+      href: articles/wk05_oct1.html
     - text: Week 6 - Oct 8-9
-      href: 404.html
+      href: articles/wk06_oct8.html
     - text: Week 7 - Oct 15-16
       href: 404.html
     - text: Week 8 - Oct 22-23 Fall Break No lab
@@ -61,6 +61,8 @@ navbar:
       href: articles/CER_framework.html
     - text: Introduction to R
       href: articles/intro2r.html
+    - text: Open Lab Hours
+      href: articles/open_lab_hours.html
     - text: Library Search Guide
       href: https://libguides.oberlin.edu/BIOL211
     - text: RefWorks

@@ -55,7 +55,7 @@ For this assignment, you should:
 
 * Complete videos 1-4
 * Turn in your cleaned dataset
-* Answer reflection questions
+* Answer reflection questions (not yet ready)
 
 ## Video 05: Diversity measures
 
@@ -80,4 +80,4 @@ For this assignment, you should:
 * Write up your findings from this aquatic invertebrate dataset for the response variables H and E. 
     * Identify your Claim, Evidence, and Reasoning for each variable. 
     * Include plots that demonstrate the patterns you describe and be sure to discuss the statistical analysis and how you interpret those results.
-* Answer reflection questions
+* Answer reflection questions (not yet ready)

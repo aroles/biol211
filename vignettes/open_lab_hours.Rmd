@@ -1,0 +1,62 @@
+---
+title: "BIOL 211 Open lab Hours"
+date: "Updated Oct 8, 2024"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+    keep_tex: true
+pkgdown:
+  as_is: true
+---
+
+### Open Lab Schedule
+
+SCTR K119 will be open for BIOL 211 students to process samples and identify speciments for the following days and times:
+
+* Mondays 8:30am - 8:00pm
+* Tuesdays 9:30am - 1:00pm, 5:00-8:00pm
+* Wednesdays 8:30am - 1:00pm, 5:00-8:00pm
+* Thursdays 8:30am - 8:00pm
+* Fridays 5:30-8:00pm
+* Saturdays & Sundays 9:00am - 8:00pm
+
+**For weekend hours you will need to enter the southwest door to the building (at Woodland and Lorain intersection) using your Oberlin ID card.**
+
+The lab will usually be unlocked during these scheduled times. However, if you find it locked, locate one of the following people to ask for access:
+
+* Darla French (K230)
+* Angie Roles (A134)
+* Twila Colley (K123)
+* Forrest Rose (K221)
+
+### Guidelines for Open Lab Hours
+
+1. All BIOL 211 lab safety rules apply to open lab hours. Review this section of the syllabus prior to attending open lab hours.
+2. Return the lab space to how you found it – Clean up after yourself and store your materials as instructed. Remember other people are using this space, not just us. Be respectful of their needs.
+3. Use the designated “open lab space” bench if available and avoid disturbing materials that have been set out for class use.
+4. Communicate with your group so that processing and identification activities proceed smoothly, and everyone knows what needs to be done.
+5. Communicate with your instructor or TA if you encounter an issue (run out of materials, need supplies, something breaks, etc.).
+6. You may get stereoscopes out to use during the time you are here but please return them to the cabinet before you leave.
+
+### Activities for Open Lab Hours
+
+* Sign in and sign out (we need to track who is using the space and for how long)
+* Processing (filtering) samples 
+* Labeling and sorting samples
+* Identification work, including filling out data sheets
+* Using stereoscopes for identification and taking photographs
+* Making notes in field notebook
+* Data management
+* Cleaning field equipment (jars)
+* Tidying your bin of materials
+* Cleaning up and storing your materials
+
+
+
+
+
+

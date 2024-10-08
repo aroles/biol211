@@ -10,13 +10,14 @@ articles:
   CopyOf01_biol_211_lab_intro: CopyOf01_biol_211_lab_intro.html
   intro2r: intro2r.html
   LabSafetyGuidelines: LabSafetyGuidelines.html
+  open_lab_hours: open_lab_hours.html
   wk01_sep3_lab_intro: wk01_sep3_lab_intro.html
   wk02_sep10: wk02_sep10.html
   wk03_sep17: wk03_sep17.html
   wk04_sep24: wk04_sep24.html
   wk05_oct1: wk05_oct1.html
   wk06_oct8: wk06_oct8.html
-last_built: 2024-10-08T15:49Z
+last_built: 2024-10-08T18:49Z
 urls:
   reference: https://aroles.github.io/biol211/reference
   article: https://aroles.github.io/biol211/articles
