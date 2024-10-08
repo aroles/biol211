@@ -49,6 +49,14 @@ Below, each video segment includes a link to the video, any slides that were use
 * [Slides (pdf)](https://drive.google.com/file/d/1431J66A5s_aadfHMKiprzVIBqlrRonx2/view?usp=drive_link)
 * [Transcript (text file)](https://drive.google.com/file/d/1pHvW00VoD8Uhe4O2ZPPRBgOhPS1Dck5-/view?usp=drive_link)
 
+## Assignment 1 due Oct 15/16
+
+For this assignment, you should:
+
+* Complete videos 1-4
+* Turn in your cleaned dataset
+* Answer reflection questions
+
 ## Video 05: Diversity measures
 
 * [Video 05 (16 min)](https://drive.google.com/file/d/193YihMoEeltp6ytIU96ZhA5T7SpAYZp-/view?usp=drive_link)
@@ -67,6 +75,9 @@ Below, each video segment includes a link to the video, any slides that were use
 * [Slides (pdf)](https://drive.google.com/file/d/14ZtdVXIN_ZvJvE0bxgrFN4x7D1MKzdjU/view?usp=drive_link)
 * [Transcript (text file)](https://drive.google.com/file/d/1e1EwkAxVYCbxJ91Q8LahBrGj2UkBsFXQ/view?usp=drive_link)
 
-# Assignment Due
+# Assignment 2 due Oct 29/30
 
-Write up your findings from this aquatic invertebrate dataset for the response variables H and E. Identify your Claim, Evidence, and Reasoning for each variable. Include plots that demonstrate the patterns you describe and be sure to discuss the statistical analysis and how you interpret those results.
+* Write up your findings from this aquatic invertebrate dataset for the response variables H and E. 
+    * Identify your Claim, Evidence, and Reasoning for each variable. 
+    * Include plots that demonstrate the patterns you describe and be sure to discuss the statistical analysis and how you interpret those results.
+* Answer reflection questions
