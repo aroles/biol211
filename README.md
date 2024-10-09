@@ -14,7 +14,7 @@ Lab: Tuesday or Wednesday, 1:30-4:20pm in Sci Ctr K119
 | **Lab Day** | Tues Lab | Wed Lab |
 | **Office** | SCTR K230 | SCTR A134 |
 | **Email** | <dfrench@oberlin.edu> | <aroles@oberlin.edu> |
-| **Phone** | 440-775-6632 | 440-775-8319 |
+| **Phone** | 440-775-6632 | (work) 440-775-8319 (cell) 443-695-1680 |
 | **Student Hrs** | TWF 11:00-12:00 or by appt | MWF 10:30-11:30am or by appt |
 
 ### Teaching Assistants (TAs)
