@@ -55,7 +55,10 @@ For this assignment, you should:
 
 * Complete videos 1-4
 * Turn in your cleaned dataset
-* Answer reflection questions (not yet ready)
+* Answer reflection questions
+    * Identify 3 things you learned from these videos.
+    * Think of 2 ways that you will be able to use what you've learned for analyzing our dataset.
+    * What's something you still don't understand after doing this exercise?
 
 ## Video 05: Diversity measures
 
@@ -80,4 +83,7 @@ For this assignment, you should:
 * Write up your findings from this aquatic invertebrate dataset for the response variables H and E. 
     * Identify your Claim, Evidence, and Reasoning for each variable. 
     * Include plots that demonstrate the patterns you describe and be sure to discuss the statistical analysis and how you interpret those results.
-* Answer reflection questions (not yet ready)
+* Answer reflection questions
+    * Identify 3 things you learned from these videos.
+    * What are 2 ways that the material in these videos relates to our project?
+    * What's something you still don't understand after doing this exercise?
