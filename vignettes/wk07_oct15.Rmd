@@ -28,6 +28,25 @@ Note that there is an assigment due the week after break -- finishing the R vide
 * Complete the Intro2R Assignment 2 
 * Finish identifying specimens ASAP!
 
+# Data Entry Spreadsheet
+
+We have created a [shared spreadsheet for data entry](https://docs.google.com/spreadsheets/d/1aOY1GEJ3RQp-aX9d0PBbzDfUWzdCdlNjtiTnu9dqfDM/edit?usp=sharing). You will need to fill out the EnterDataHere sheet once for each data sheet that you have (one for each sample). After you submit a sheet, it will appear in the Database. **All data should be entered before 9am on Tue Oct 29.**
+
+Please take care to:
+
+* Only enter data when no one else is using the spreadsheet (only one person can add data at a time).
+* Use the EnterDataHere sheet to add your data. Do not add data directly to the Database sheet.
+* Capitalize Order and Family names.
+* Spell Order and Family names correctly.
+* Enter all the identifying information (Group, Dates, trap type, etc) correctly.
+* If you have any extra info you can put it in the Notes column.
+* Click Submit once all info is entered. You can check the Database sheet to see that your entries were added (scroll to the bottom for the most recent entries).
+* Click Clear to remove your data after you have submitted it. Then you can enter a new sheet if desired.
+* Please DO NOT modify the Database sheet so that you do not change anyone else's data! I have left it editable (not protected) in case you make a mistake and want to delete your data and re-enter but PLEASE BE CAREFUL not to change anything else.
+* Be sure to close the spreadsheet when you are finished.
+
+**If you have any questions or encounter any problems using the spreadsheet please contact Angie.**
+
 # Revised 211 Lab Schedule
 Revised Oct 8, 2024
 

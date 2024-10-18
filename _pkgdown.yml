@@ -61,6 +61,8 @@ navbar:
       href: articles/CER_framework.html
     - text: Introduction to R
       href: articles/intro2r.html
+    - text: Data Entry Spreadsheet
+      href: https://docs.google.com/spreadsheets/d/1aOY1GEJ3RQp-aX9d0PBbzDfUWzdCdlNjtiTnu9dqfDM/edit?usp=sharing
     - text: Open Lab Hours
       href: articles/open_lab_hours.html
     - text: Library Search Guide
