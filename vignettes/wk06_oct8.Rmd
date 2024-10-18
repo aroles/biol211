@@ -29,7 +29,7 @@ You are required to complete open lab hours for this week. See the [Open Lab Hou
 
 # Assignment due Oct 15/16
 
-* Complete videos 1-4 of the [Intro to R sequence](articles/intro2r.html)
+* Complete videos 1-4 of the [Intro to R sequence](intro2r.html)
 * Complete the Intro2R Assignment 1 (see page from first bullet point)
 * Complete 2 hours of open lab hours processing samples and identifying specimens
 

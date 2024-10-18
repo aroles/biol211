@@ -24,7 +24,7 @@ Note that there is an assigment due the week after break -- finishing the R vide
 
 # Assignment due Oct 29/30
 
-* Complete videos 5-7 of the [Intro to R sequence](articles/intro2r.html)
+* Complete videos 5-7 of the [Intro to R sequence](intro2r.html)
 * Complete the Intro2R Assignment 2 
 * Finish identifying specimens ASAP!
 
