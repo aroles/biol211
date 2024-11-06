@@ -37,7 +37,6 @@ Work with your team on figuring out your analysis and try to get it done in R. T
 # Getting Ready For Posters!
 
 As we mentioned previously, the two final products we'll have from this semester are (1) a poster presentation, one per group (occurs Dec 10/111) and (2) a final report collaboratively written by the entire lab section. 
-
 Today we're sharing with you a [template for the poster](https://docs.google.com/presentation/d/1YDqIf1smF_hxcFGkc0tGqOuUXkX5RqCW/edit?usp=drive_link&ouid=107508568211857334485&rtpof=true&sd=true). You can download a copy for yourself and make changes to suit your presentation. Keep in mind that font sizes on the template were chosen to be readable at an appropriate distance so consider not changing those!
 
 Be sure to walk around the department and observe the posters on the wall. Which ones do you think are well done? Why? Use those examples to help you make good design decisions for your poster.
@@ -49,6 +48,7 @@ If you took photos of the field sites, those would be great to include with your
 
 Remember that the papers you read at the start of the semester will be good resources for background for the poster (and later the report). 
 
+Keep in mind that you want to use fonts that are easy for the observer to read. You can search for guidance about font sizes... here's [one good resource](https://urc.ucdavis.edu/sites/g/files/dgvnsk3561/files/inline-files/General%20Poster%20Design%20Principles%20-%20Handout.pdf).
 
 # Revised 211 Lab Schedule
 Revised Oct 8, 2024
