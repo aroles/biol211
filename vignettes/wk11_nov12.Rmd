@@ -1,0 +1,74 @@
+---
+title: "Week 11. Arthropod Biodiversity: Data Analysis & Posters"
+date: "Nov 12 & 13, 2024"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+    keep_tex: true
+pkgdown:
+  as_is: true
+---
+This week in lab we are focused on finishing analyzing our dataset and making plots. We're also working on the poster presentation, being sure to do a solid job of it.
+
+# Arthropod Database Analysis and Plots
+
+You should have started analyzing the data last week and finish that up this week. We shared several resources to help you get started (in addition to the sample data and analysis you did earlier):
+
+* Angie's cleaned dataset is available [here](https://drive.google.com/file/d/19dZeDDTy5KHCDA6_jcajipbjfEpGzVYF/view?usp=drive_link).
+* [Some example code](https://drive.google.com/file/d/1qKGymGwn7-w9sx7sRuB82evnug0mduhT/view?usp=drive_link) to help with data management before analysis.
+
+Remember that your experimental unit was an individual trap -- so we would usually want to calculate our diversity metrics for each trap and then take averages. That means that sampleid is the variable that represents separate samples from different traps on different days, set by different groups in different locations.
+
+
+# Creating your poster!
+
+Last week, we shared a [template for the poster](https://docs.google.com/presentation/d/1YDqIf1smF_hxcFGkc0tGqOuUXkX5RqCW/edit?usp=drive_link&ouid=107508568211857334485&rtpof=true&sd=true) with you. Pay careful attention to details like font size and not having excessive text on the poster.
+
+Here's [the rubric](https://docs.google.com/document/d/1xD6YnXn83Z5NwOT5C3MFx2mpVmDj_TuE/edit?usp=drive_link&ouid=107508568211857334485&rtpof=true&sd=true) we're planning to use to give you feedback about the poster presentations.
+
+If you took photos of the field sites, those would be great to include with your poster. You might also be interested in the maps of the field site that we shared when we first went into the field. Here are those two maps:
+
+* [Map with zones clearly delineated](https://drive.google.com/file/d/1szE_Q9TAmCqW_o_CduEGerk2jYzmHxXc/view?usp=drive_link)
+* [Map with zones roughly delineated - satellite image](https://drive.google.com/file/d/1ojLTeRK-fSJgiMQUZ-Tk_nIhZULAcSXv/view?usp=drive_link)
+
+Remember that the papers you read at the start of the semester will be good resources for background for the poster (and later the report). 
+
+Keep in mind that you want to use fonts that are easy for the observer to read. You can search for guidance about font sizes... here's [one good resource](https://urc.ucdavis.edu/sites/g/files/dgvnsk3561/files/inline-files/General%20Poster%20Design%20Principles%20-%20Handout.pdf).
+
+# Final Report Info
+
+Next week, we'll start working in earnest on the final report. Each lab section will write a final report all together as a group. Remember that this represents a report on the state of arthropod biodiversity the audience for which is the Biology Department faculty and the Oberlin College Board of Trustees. Many of these folks are either not ecologists or not scientists, so we want to write a report that is scientifically rigorous but understandable for the non-specialist.
+
+Our report will have the standard organization of a scientific paper, with Introduction, Methods, Results, and Discussion sections. Each person in a team will work on one section with folks from other teams (people from the same team must work on different sections of the report).
+
+Here is [an example](sheets/sci_articles/peerj-1582.pdf) to give you an idea of what we might do in our report.
+
+# Revised 211 Lab Schedule
+Revised Oct 8, 2024
+
+| Week | Date | Lab Activity | Assignment Due |
+| :--- | :------ | :------------------- | :---------- |
+| 1 | Sep 3/4 | Intro (course structure, safety) / background for next time | None |
+| 2 | Sep 10/11 | Field method intro / hypothesis generation / library intro | 4-paper annotated bib | 
+| 3 | Sep 17/18 | Finalize hypothesis / data collection 1 / begin ID work | Group annotated bib | 
+| 4 | Sep 24/25 | Data collection 2 / cont. ID work | None | 
+| 5 | Oct 1/2 | Data collection 3 / cont. ID work | Required 2 open lab hours |
+| 6 | Oct 8/9 | Data collection 4 / cont. ID work | Required 2 open lab hours |
+| 7 | Oct 15/16 | Continue ID work (complete by 10/18) | Required open lab hours, R homework (vid 1-4, assign 1) |
+| 8 | Oct 22/23 | Fall Break -- No labs | | 
+| 9 | Oct 29/30 | Data entry / begin data cleaning | R homework (vid 5-7, assign 2) |
+| 10 | Nov 5/6 | Finish data cleaning / begin data analysis | Cleaned dataset |
+| 11 | Nov 12/13 | Finish data analysis / Presentation prep: begin drafting poster / begin drafting written report | TBD |
+|12| Nov 19/20 | Presentation prep: cont. drafting poster & finalize / cont. drafting written report | Poster due 11/26 |
+| 13 | Nov 28/29 | Thanksgiving Break - No labs | -- |
+| 14| Dec 3/4 | Finalize written report | Final report due 12/9 | 
+| 15 | Dec 10/11 | Poster presentations | Presentation, final reflection | 
+
+
+
+
+
