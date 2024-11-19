@@ -1,0 +1,77 @@
+---
+title: "Week 12. Arthropod Biodiversity: Posters and Written Report"
+date: "Nov 19 & 20, 2024"
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 3
+  pdf_document:
+    toc: TRUE
+    toc_depth: 3
+    keep_tex: true
+pkgdown:
+  as_is: true
+---
+This week in lab we are focused on finishing posters (due 11/26) and beginning the written report.
+
+# Posters
+
+The final version of your poster is due Tuesday 11/26. You must submit your poster using the links in the menu bar (via Bb or Google Form, depending on section). 
+
+As you are finalizing your poster, be sure to check out posters on the walls of the Biology department. Look at the [poster rubric](https://docs.google.com/document/d/1xD6YnXn83Z5NwOT5C3MFx2mpVmDj_TuE/edit?usp=drive_link&ouid=107508568211857334485&rtpof=true&sd=true) and evaluate how well your poster fits the criteria. For example,
+
+* Is your text readable? 
+* Do you have all the sections described including next steps or future directions?
+* Do you include references and actually cite them in the text of the poster? 
+* Do all of your tables and figures/images have numbered captions (ex: Figure 2) that describe what's portrayed? 
+* Do you refer to each of the tables, figures, or images in the text?
+
+See the week 11 agenda for additional links including the poster template and images of our study area.
+
+<mark style="background-color:yellow">TODAY: before you leave lab today, your group must have your TA review your poster to give you feedback.</mark>
+
+# Final Report
+
+Last week, you each signed up for contributing to one of the sections of the final report (Introduction, Methods, Results, Discussion). Check with your lab instructor if you are not sure which section you are in. Each group will work collaboratively to outline and then flesh out their section of the report. 
+
+Because we are producing a single cohesive final document, it will be important for each team to be aware of what other teams are doing with their section of the report. To facilitate this, you have access to a shared google drive folder where each section of the paper will have a separate google doc to use for developing their section. You are able to open and read the sections being written by other teams. Of course you can also verbally communicate with them!
+
+* [Tuesday lab section shared gdrive folder.](https://drive.google.com/drive/folders/1alzhuSda-J4mF7Lhchrr2jshuN2pd135?usp=drive_link)
+* [Wednesday lab section shared gdrive folder.](https://drive.google.com/drive/folders/136XpXaxt10RyJluhLvZg5NT3-igKhMCt?usp=drive_link)
+
+Remember that this represents a report on the state of arthropod biodiversity the audience for which is the Biology Department faculty and the Oberlin College Board of Trustees. Many of these folks are either not ecologists or not scientists, so we want to write a report that is scientifically rigorous but understandable for the non-specialist.
+
+Here is [an example](sheets/sci_articles/peerj-1582.pdf) to give you an idea of what we might do in our report.
+
+<mark style="background-color:yellow">TODAY: teams for each section should get together to outline what should be covered in your section and to assign specific tasks to be completed by the next lab meeting (Dec 3 and 4), which is the last opportunity to get together to work on the paper (it's due 12/9).</mark>
+
+# Before leaving lab today...
+
+* Your poster team must meet with the TA to review your poster.
+* Your report team must share with your instructor the plan for who is doing what by the next lab session.
+
+# Revised 211 Lab Schedule
+Revised Oct 8, 2024
+
+| Week | Date | Lab Activity | Assignment Due |
+| :--- | :------ | :------------------- | :---------- |
+| 1 | Sep 3/4 | Intro (course structure, safety) / background for next time | None |
+| 2 | Sep 10/11 | Field method intro / hypothesis generation / library intro | 4-paper annotated bib | 
+| 3 | Sep 17/18 | Finalize hypothesis / data collection 1 / begin ID work | Group annotated bib | 
+| 4 | Sep 24/25 | Data collection 2 / cont. ID work | None | 
+| 5 | Oct 1/2 | Data collection 3 / cont. ID work | Required 2 open lab hours |
+| 6 | Oct 8/9 | Data collection 4 / cont. ID work | Required 2 open lab hours |
+| 7 | Oct 15/16 | Continue ID work (complete by 10/18) | Required open lab hours, R homework (vid 1-4, assign 1) |
+| 8 | Oct 22/23 | Fall Break -- No labs | | 
+| 9 | Oct 29/30 | Data entry / begin data cleaning | R homework (vid 5-7, assign 2) |
+| 10 | Nov 5/6 | Finish data cleaning / begin data analysis | Cleaned dataset |
+| 11 | Nov 12/13 | Finish data analysis / Presentation prep: begin drafting poster / begin drafting written report | TBD |
+|12| Nov 19/20 | Presentation prep: cont. drafting poster & finalize / cont. drafting written report | Poster due 11/26 |
+| 13 | Nov 28/29 | Thanksgiving Break - No labs | -- |
+| 14| Dec 3/4 | Finalize written report | Final report due 12/9 | 
+| 15 | Dec 10/11 | Poster presentations | Presentation, final reflection | 
+
+
+
+
+
